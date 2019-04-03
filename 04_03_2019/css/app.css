@@ -1,5 +1,5 @@
 .marketing-site-footer {
-  background: #2151A1;
+  background: #2c3840;
   color: #8aa0ae;
   padding: 2rem 0 0;
 }
@@ -43,7 +43,7 @@
 
 .marketing-site-footer-block .fa {
   font-size: 2rem;
-  color: #fefefe;
+  color: #020304;
 }
 
 .marketing-site-footer-block p {
@@ -52,7 +52,7 @@
 }
 
 .marketing-site-footer-bottom {
-  background: #2151A1;
+  background: #020304;
   padding: 1rem 0;
 }
 
